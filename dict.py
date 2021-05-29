@@ -118,5 +118,5 @@ while True:
     option=input('Do you want to find anoather name:(y|n)')
     if option=='n':
         break
-print('Thanks for using Applicationn')
+print('Thanks for using Application')
     
