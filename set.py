@@ -1,4 +1,9 @@
-from typing import Sequence
+#List = Mutable, Ordered, Slicing, Duplicate elements
+#Tuple =  Ordered, Slicing, Duplicate elements
+#Set = Mutable
+
+myset = {1,2,3}
+print(myset)
 
 
 # s={10,20,30,40}
